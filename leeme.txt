@@ -1,0 +1,24 @@
+PÁGINA PARA NETLIFY DROP
+
+1. Descomprimí barefoot_emprendimiento_netlify.zip.
+2. En Netlify Drop, arrastrá la carpeta del sitio o su contenido.
+3. El archivo index.html debe quedar en la raíz de lo que subas, junto a la carpeta assets.
+4. El botón de WhatsApp abre una conversación con el número configurado.
+
+Archivos:
+- index.html: página web.
+- assets/barefoot-propuesta.png: imagen que compartiste.
+- assets/logo-equipo-marile.png: logo del Equipo de Marilé.
+
+Para editar:
+- Abrí index.html en un editor de texto.
+- El número está en los enlaces https://wa.me/5491138229648.
+
+SEO incluido:
+- Título descriptivo de la página.
+- Meta description en español.
+- Palabras clave relevantes.
+- Etiquetas Open Graph para compartir la página en redes.
+- Encabezados y texto organizados para facilitar la lectura y la indexación.
+
+Nota: las meta keywords tienen poca o ninguna influencia en Google; el título, la descripción, el contenido útil y los enlaces compartidos suelen ser más importantes. Para aparecer en buscadores, el sitio debe estar publicado y puede requerir tiempo para indexarse.
